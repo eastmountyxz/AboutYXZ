@@ -29,7 +29,7 @@
 **2022**
 - [1] **杨秀璋**, 彭国军, 罗元, 等. OMRDetector:一种基于深度学习的混淆恶意请求检测方法[J]. *计算机学报*, 2022,45(10):2167-2189.  (**中文核心 & CCF T1 & EI**)
 - [2] **杨秀璋**, 彭国军, 李子川, 等. 基于Bert和BiLSTM-CRF的APT攻击实体识别及对齐研究[J]. *通信学报*, 2022,43(06):58-70. (**中文核心 & CCF T1 & EI**)
-- [3] **Xiuzhang Yang**, Guojun Peng, Dongni Zhang, et al. An Enhanced Intrusion Detection System for IoT Networks Based on Deep Learning and Knowledge Graph[J]. *Security and Communication Networks*, 2022,vol.2022, Article ID.4748528, pp.1-21. (**SCI 四区 &CCF C**)
+- [3] **Xiuzhang Yang**, Guojun Peng, Dongni Zhang, et al. An Enhanced Intrusion Detection System for IoT Networks Based on Deep Learning and Knowledge Graph[J]. *Security and Communication Networks*, 2022,vol.2022, Article ID.4748528, pp.1-21. (**SCI 四区 & CCF C**)
 - [4] **杨秀璋**, 郭明镇, 候红涛, 等. 融合情感词典的改进BiLSTM-CNN+Attention情感分类算法[J]. *科学技术与工程*, 2022,22(20):8761-8770. （**中文核心**）
 - [5] **Xiuzhang Yang**, Shuai Wu, Tianshu Ren, et al. Research on Intelligent Sentiment Analysis and Theme Evolution of Personal Technology Blog[C]. 2022 7th International Conference on Cloud Computing and Big Data Analytics (*ICCCBDA*). IEEE, 2022: 81-87. (**EI会议**)
 - [6] 张杰, 彭国军, **杨秀璋**. 基于动态API调用序列和机器学习的恶意逃避样本检测方法[J]. *山东大学学报(理学版)*, 2022,57(07):85-93+102.（**中文核心**）
@@ -40,12 +40,17 @@
 
 **2021**
 - [1] **杨秀璋**, 武帅, 夏换, 等. 基于自适应图像增强技术的水族文字提取与识别研究[J]. *计算机科学*, 2021,48(S1):74-79. (**中文核心 & CCF T2**)
-- [2] **杨秀璋**, 武帅, 夏换, 等. 企业竞争情报主题挖掘与主题演化研究[J]. *计算机时代*, 2021,(07):21-27.
-- [3] **杨秀璋**, 宋卓远, 赵凯, 等. 基于LDA模型和情感分析的贵州景点舆情分析研究[J]. *现代计算机*, 2021,27(25):36-43.
-- [4] **杨秀璋**, 施奕, 李娜, 等. 一种改进卷积神经网络的阿拉伯文字图像识别方法[J]. *信息技术与信息化*, 2021,(09):6-11.
-- [5] **杨秀璋**, 武帅, 张苗, 等. 基于TextCNN和Attention的微博舆情事件情感分析[J]. *信息技术与信息化*, 2021,(07):41-46.
+- [2] **杨秀璋**, 赵凯, 杨鑫, 等. 基于知识图谱和主题演化的我国反恐情报挖掘研究[J]. *情报探索*, 2021(10):15-24.
+- [3] **杨秀璋**, 武帅, 夏换, 等. 企业竞争情报主题挖掘与主题演化研究[J]. *计算机时代*, 2021,(07):21-27.
+- [4] **杨秀璋**, 宋卓远, 赵凯, 等. 基于LDA模型和情感分析的贵州景点舆情分析研究[J]. *现代计算机*, 2021,27(25):36-43.
+- [5] **杨秀璋**, 施奕, 李娜, 等. 一种改进卷积神经网络的阿拉伯文字图像识别方法[J]. *信息技术与信息化*, 2021,(09):6-11.
+- [6] **杨秀璋**, 武帅, 张苗, 等. 基于TextCNN和Attention的微博舆情事件情感分析[J]. *信息技术与信息化*, 2021,(07):41-46.
 
-
+**2020**
+- [1]杨秀璋,武帅,夏换,等.大数据视域下2019年中国电影产业分析研究[J].电影文学,2020,(23):17-29.
+1]杨秀璋,夏换,于小民,等.基于多视图融合的论文自动分类方法研究[J].现代电子技术,2020,43(08):120-124.DOI:10.16652/j.issn.1004-373x.2020.08.031.
+[1]杨秀璋,武帅,夏换,等.基于主题挖掘和情感分析的“新冠肺炎疫情”舆情分析研究[J].计算机时代,2020,(08):31-36.DOI:10.16644/j.cnki.cn33-1094/tp.2020.08.008.
+[1]杨秀璋,武帅,夏换,等.大数据视域下阳明心学主题挖掘及作者发现研究[J].现代计算机,2020,(34):8-14.
 
 ---
 
