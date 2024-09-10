@@ -27,9 +27,8 @@
 
 **2022**
 - [1] **杨秀璋**, 彭国军, 罗元, 等. OMRDetector:一种基于深度学习的混淆恶意请求检测方法[J]. 计算机学报, 2022,45(10):2167-2189.  (**中文核心 & CCF T1 & EI**)
-- [2] **杨秀璋**, 彭国军, 李子川, 等.基于Bert和BiLSTM-CRF的APT攻击实体识别及对齐研究[J].通信学报,2022,43(06):58-70.
-
-Xiuzhang Yang,Guojun Peng,Dongni Zhang,et al. An Enhanced Intrusion Detection System for IoT Networks Based on Deep Learning and Knowledge Graph[J]. Security and Communication Networks, 2022,vol.2022, Article ID.4748528, pp.1-21. doi:https://doi.org/10.1155/2022/4748528
+- [2] **杨秀璋**, 彭国军, 李子川, 等. 基于Bert和BiLSTM-CRF的APT攻击实体识别及对齐研究[J]. 通信学报, 2022,43(06):58-70. (**中文核心 & CCF T1 & EI**)
+- [3] **Xiuzhang Yang**, Guojun Peng, Dongni Zhang, et al. An Enhanced Intrusion Detection System for IoT Networks Based on Deep Learning and Knowledge Graph[J]. Security and Communication Networks, 2022,vol.2022, Article ID.4748528, pp.1-21. (**SCI 四区 &CCF C**)
 
 [1]杨秀璋,郭明镇,候红涛,等.融合情感词典的改进BiLSTM-CNN+Attention情感分类算法[J].科学技术与工程,2022,22(20):8761-8770.
 
