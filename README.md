@@ -31,11 +31,13 @@
 - [2] **杨秀璋**, 彭国军, 李子川, 等. 基于Bert和BiLSTM-CRF的APT攻击实体识别及对齐研究[J]. *通信学报*, 2022,43(06):58-70. (**中文核心 & CCF T1 & EI**)
 - [3] **Xiuzhang Yang**, Guojun Peng, Dongni Zhang, et al. An Enhanced Intrusion Detection System for IoT Networks Based on Deep Learning and Knowledge Graph[J]. *Security and Communication Networks*, 2022,vol.2022, Article ID.4748528, pp.1-21. (**SCI 四区 &CCF C**)
 - [4] **杨秀璋**, 郭明镇, 候红涛, 等. 融合情感词典的改进BiLSTM-CNN+Attention情感分类算法[J]. *科学技术与工程*, 2022,22(20):8761-8770. （**中文核心**）
-- [5] 张杰, 彭国军, **杨秀璋**. 基于动态API调用序列和机器学习的恶意逃避样本检测方法[J]. *山东大学学报(理学版)*, 2022,57(07):85-93+102.（**中文核心**）
-- [6] 吕杨琦, 王张宜, **杨秀璋**, 等. 基于特征功能函数的APT样本分类方法[J]. *郑州大学学报(理学版)*, 2023,55(02):10-17+24. （**中文核心**）
-- [7] 高宇航, 彭国军, 杨秀璋, 等. 基于深度学习的PowerShell恶意代码家族分类研究[J]. *武汉大学学报(理学版)*, 2022,68(01):8-16.（**中文核心**）
-- [8] **杨秀璋**, 周既松, 武帅, 等. 一种改进IE-AlexNet的少数民族文字图像识别方法[J]. *计算机时代*, 2022,(11):15-20.
-- [9] **杨秀璋**, 宋籍文, 武帅, 等. 一种融合Bert预训练和BiLSTM的场景迁移情感分析研究[J]. *计算机时代*, 2022,(08):69-74+79.
+- [5] **Xiuzhang Yang**, Shuai Wu, Tianshu Ren, et al. Research on Intelligent Sentiment Analysis and Theme Evolution of Personal Technology Blog[C]. 2022 7th International Conference on Cloud Computing and Big Data Analytics (*ICCCBDA*). IEEE, 2022: 81-87. (**EI会议**)
+- [6] 张杰, 彭国军, **杨秀璋**. 基于动态API调用序列和机器学习的恶意逃避样本检测方法[J]. *山东大学学报(理学版)*, 2022,57(07):85-93+102.（**中文核心**）
+- [7] 吕杨琦, 王张宜, **杨秀璋**, 等. 基于特征功能函数的APT样本分类方法[J]. *郑州大学学报(理学版)*, 2023,55(02):10-17+24. （**中文核心**）
+- [8] 高宇航, 彭国军, 杨秀璋, 等. 基于深度学习的PowerShell恶意代码家族分类研究[J]. *武汉大学学报(理学版)*, 2022,68(01):8-16.（**中文核心**）
+- [9] **杨秀璋**, 周既松, 武帅, 等. 一种改进IE-AlexNet的少数民族文字图像识别方法[J]. *计算机时代*, 2022,(11):15-20.
+- [10] **杨秀璋**, 宋籍文, 武帅, 等. 一种融合Bert预训练和BiLSTM的场景迁移情感分析研究[J]. *计算机时代*, 2022,(08):69-74+79.
+
 
 ---
 
